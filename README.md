@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba Henry
+Este repositorio es una prueba
